@@ -25,8 +25,8 @@
 <img width="300px" align="right" src="https://cdn.discordapp.com/attachments/910354379729674313/952737631307956254/Simpson-GIF.gif"></img>
 <div>
   
-  - 📑 Estudo programação há alguns meses, com conteúdo focado principalmente em FrontEnd.
-  - ✒️ Cursando Sistemas de Informação - UNDB 
+  - 📑 Estudo programação desde Janeiro de 2022, visando formação FullStack.
+  - ✒️ Cursando segundo período de Sistemas de Informação - UNDB 
   - 📌 São Luís - MA (Brasil)
   - 🎈 Atualmente estou testando uns projetos novos para melhorar minhas habilidades, então esse GitHub vai ficar bem mais movimentado de hoje em diante. 
 
