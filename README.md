@@ -28,7 +28,7 @@
   - 📑 Estudo programação desde Janeiro de 2022, visando formação FullStack.
   - ✒️ Cursando segundo período de Sistemas de Informação - UNDB 
   - 📌 São Luís - MA (Brasil)
-  - 🎈 Atualmente estou testando uns projetos novos para melhorar minhas habilidades, então esse GitHub vai ficar bem mais movimentado de hoje em diante. 
+  - 🎈 Atualmente estou testando uns projetos novos para melhorar minhas habilidades. 
 
 </div>
 
