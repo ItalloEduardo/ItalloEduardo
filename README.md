@@ -26,9 +26,9 @@
 <div>
   
   - 📑 Estudo programação desde Janeiro de 2022, visando formação FullStack.
-  - ✒️ Cursando segundo período de Sistemas de Informação - UNDB 
+  - ✒️ Cursando terceiro período de Engenharia de Software - UNDB 
   - 📌 São Luís - MA (Brasil)
-  - 🎈 Atualmente estou testando uns projetos novos para melhorar minhas habilidades. 
+  - 🎈 Sempre testando projetos novos para melhorar minhas habilidades. 
 
 </div>
 
