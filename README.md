@@ -25,7 +25,7 @@
 <img width="300px" align="right" src="https://cdn.discordapp.com/attachments/910354379729674313/952737631307956254/Simpson-GIF.gif"></img>
 <div>
   
-  - 📑 Estudo programação desde Janeiro de 2022, visando formação FullStack.
+  - 📑 Estudo desenvolvimento desde o início de 2022, atualmente visando BackEnd e Análise de Banco de Dados.
   - ✒️ Cursando terceiro período de Engenharia de Software - UNDB 
   - 📌 São Luís - MA (Brasil)
   - 🎈 Sempre testando projetos novos para melhorar minhas habilidades. 
