@@ -11,9 +11,9 @@
 <!-- Linguagens Mais Usadas -->
 <div style="display: inline_block" align="center">
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
-  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> -
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -
+  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> - 
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> -
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
