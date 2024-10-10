@@ -26,7 +26,7 @@
 <div>
   
   - 📑 Estudo desenvolvimento desde o início de 2022, atualmente visando BackEnd e Análise de Banco de Dados.
-  - ✒️ Cursando quarto período de Engenharia de Software - UNDB 
+  - ✒️ Cursando sexto período de Engenharia de Software - UNDB 
   - 📌 São Luís - MA (Brasil)
   - 🎈 Sempre testando projetos novos para melhorar minhas habilidades. 
 
